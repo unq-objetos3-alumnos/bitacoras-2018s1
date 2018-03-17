@@ -7,7 +7,7 @@
  - Sitio de la materia: https://sites.google.com/site/programacionhm/unq
  - Github con Tps anteriores, bitácoras y algunos enunciados de semestres anteriores https://github.com/unq-objetos3-alumnos
  - Github con ejemplos de la materia https://github.com/orgs/uqbar-paco (tip: filren por "obj3")
- - Canal de youtube (algo viejo pero puede tener cosas utiles): https://www.youtube.com/channel/UC20rhT1zAZyVRZuRqukk74Q/videos
+ - Canal de youtube (algo viejo pero puede tener cosas útiles): https://www.youtube.com/channel/UC20rhT1zAZyVRZuRqukk74Q/videos
  
 ### Forma de evaluación
 
@@ -25,7 +25,7 @@
  - Mostramos opciones de building tools: Eclipse config, Gradle y SBT. Recomendamos usar Gradle por ser la más sencilla y que probablemente hayan usado con anterioridad o usen en el futuro.
  - Se introdujo el concepto de tipado estructural y se lo comparó con el tipado nominal.
  - Presentamos el ejercicio "Age of Empires" y planteamos diferentes soluciones. Una planteada con herencia simple, otra con composición y finalmemte otra introduciendo la idea de mixins. En este repositorio pueden encontrar lo que hicimos en clase https://github.com/unq-objetos3-alumnos/2018s1-clase1-age-scala
- - Se explicó brevemente la diferencia entre herencia múltiple y mixins. Se introdujo el concepto de linearización como un sistema resolución automática de conflictos conflictos
+ - Se explicó brevemente la diferencia entre herencia múltiple y mixins. Se introdujo el concepto de linearización como un sistema resolución automática de conflictos.
 
 
 ## Para la clase siguiente
