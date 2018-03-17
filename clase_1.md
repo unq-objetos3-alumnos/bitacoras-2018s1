@@ -5,6 +5,7 @@
 ### Link Útiles
 
  - Sitio de la materia: https://sites.google.com/site/programacionhm/unq
+ - En particular, sección con una introducción a scala https://sites.google.com/site/programacionhm/te/scala/introduccin-a-scala
  - Github con Tps anteriores, bitácoras y algunos enunciados de semestres anteriores https://github.com/unq-objetos3-alumnos
  - Github con ejemplos de la materia https://github.com/orgs/uqbar-paco (tip: filren por "obj3")
  - Canal de youtube (algo viejo pero puede tener cosas útiles): https://www.youtube.com/channel/UC20rhT1zAZyVRZuRqukk74Q/videos
